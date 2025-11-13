@@ -1,6 +1,6 @@
 #  02_algoritmi1
 
-## ['objasnjenje_promenljive.py'](https://github.com/Durapix/kodovi-radionica-2025/blob/main/kodovi/02_algoritmi1/objasnjenje_promenljive.py)
+## [`objasnjenje_promenljive.py`](https://github.com/Durapix/kodovi-radionica-2025/blob/main/kodovi/02_algoritmi1/objasnjenje_promenljive.py)
 *  Захтева: Ништа
 *  Садржи: Рад са променљивама и основним операторима
 
